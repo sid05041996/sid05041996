@@ -1,4 +1,4 @@
- 👋 Hi, I’m @sid05041997 
+ 👋 Hi, I’m Sid. 
 
 - 👀 I’m interested in solving real world problems.
 - 🌱 I’m currently learning Deep Learning techniques.
